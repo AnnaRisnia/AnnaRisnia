@@ -8,4 +8,4 @@ Sobre mim
 - 🛡️ Estudando fundamentos de redes, sistemas operacionais e segurança da informação.
 - 💻 Desenvolvendo habilidades em Python, SQL, HTML, CSS, JavaScript, Git & GitHub, Linux, Redes, Power BI e automação como base para cyber.
 - 💡 Unindo raciocínio analítico da engenharia com tecnologia para resolver problemas reais.
-- - 📍 Salvador - BA
+- 📍 Salvador - BA
