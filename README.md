@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu sou Anna Rísnia! 🍂
 
-<!--
-**AnnaRisnia/AnnaRisnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira Civil em transição de carreira para **Tecnologia**, com foco em **Segurança Cibernética**.
+Construindo base sólida em programação, dados e automação para atuar na área de cyber.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formada em Engenharia Civil, com especialização em Gestão de Processos e Qualidade
+- 🔄 Em transição de carreira para Tecnologia com foco em Segurança Cibernética
+- 🛡️ Estudando fundamentos de redes, sistemas operacionais e segurança da informação
+- 💻 Desenvolvendo habilidades em Python, SQL, HTML, CSS, JavaScript e automação como base para cyber
+- 📍 Salvador - BA
+- 💡 Unindo raciocínio analítico da engenharia com tecnologia para resolver problemas reais
