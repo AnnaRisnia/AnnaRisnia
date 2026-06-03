@@ -1,6 +1,6 @@
 # Olá, eu sou Anna Rísnia! 🍂
 
-Engenheira Civil em transição de carreira para **Tecnologia**, com foco em **Segurança Cibernética**.
+Engenheira Civil em transição de carreira para **Tecnologia**, com foco em **Segurança de Dados**.
 Construindo base sólida em programação, dados e automação para atuar na área de cyber.
 
 ---
