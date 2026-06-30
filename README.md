@@ -11,7 +11,7 @@ Engenheira de formação, desenvolvedora na prática. Trabalho com Python, SQL, 
 - 💻 Desenvolvo soluções em Python, SQL, JavaScript, HTML e IA
 - 🛡️ Foco em automação, análise de dados e segurança cibernética
 - 📚 Estudando na Hashtag Treinamentos: Python, Ciência de Dados, IA, Git & GitHub
-- 📍 Brasil
+- 📍 Salvador/Ba
 
 ---
 
